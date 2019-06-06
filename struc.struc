@@ -1,0 +1,1 @@
+for\(let {i:i} = {min:0}; {i:i} < {max}; {i:i}++\) \{&{body:}$\}
